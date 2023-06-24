@@ -1,13 +1,14 @@
 {
-  "name": "next-mdx-enhanced",
+  "name": "next-mdx-enhanced-plus",
   "description": "Next.js plugin for rendering MDX with layouts and front matter",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "bugs": {
-    "url": "https://github.com/hashicorp/next-plugin-mdx-enhanced/issues"
+    "url": "https://github.com/ancepsinfans/next-plugin-mdx-enhanced/issues"
   },
   "contributors": [
     "Jeff Escalante",
-    "Kevin Pruett"
+    "Kevin Pruett",
+    "Zach Bullard"
   ],
   "dependencies": {
     "@babel/core": "7.x",
@@ -16,7 +17,7 @@
     "fs-extra": "^9.0.1",
     "glob": "^7.1.6",
     "gray-matter": "^4.0.2",
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^2.0.4",
     "prebuild-webpack-plugin": "1.1.1",
     "stringify-object": "^3.3.0"
   },
